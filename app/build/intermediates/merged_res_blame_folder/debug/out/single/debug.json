@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/drawable_ic_launcher_round.xml.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/layout_activity_warmup.xml.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/layout/activity_warmup.xml"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/layout_activity_stats.xml.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/layout/activity_stats.xml"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/drawable_ic_warmup_torso.xml.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/drawable/ic_warmup_torso.xml"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/drawable_ic_warmup_arms.xml.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/drawable/ic_warmup_arms.xml"
+    },
+    {
+        "merged": "com.example.deckworkout.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.deckworkout.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/drawable_ic_warmup_wrists.xml.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/drawable/ic_warmup_wrists.xml"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/drawable_ic_launcher.xml.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/drawable_ic_warmup_jacks.xml.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/drawable/ic_warmup_jacks.xml"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-merged_res-31:/layout_activity_menu.xml.flat",
+        "source": "/home/marko/.gradle/daemon/8.0/com.example.deckworkout.app-main-33:/layout/activity_menu.xml"
+    }
+]

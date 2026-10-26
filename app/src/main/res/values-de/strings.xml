@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Prison Workout</string>
+
+    <!-- Menu Activity -->
+    <string name="subtitle_menu">52 Karten • Liegestütze • Klimmzüge • Dips</string>
+    <string name="last_workout_title">Letztes Workout</string>
+    <string name="last_workout_none">Noch kein Workout absolviert. Starte jetzt dein erstes Deck!</string>
+    <string name="last_workout_summary">%1$s (⏱️ %2$s)\n• %3$d/%4$d Karten | %5$d Wdh. gesamt\n  (%6$d Liegestütze, %7$d Klimmzüge, %8$d Dips)</string>
+    <string name="button_start_workout">Workout starten</string>
+    <string name="button_view_history">Historie ansehen</string>
+    <string name="button_main_menu">Hauptmenü</string>
+
+    <!-- Rest Timer Settings -->
+    <string name="rest_timer_title">Satzpause</string>
+    <string name="button_skip_rest">Pause überspringen ⏩</string>
+    <string name="rest_setting_label">Pause: %1$d s</string>
+    <string name="rest_setting_off">Pause: Aus</string>
+    <string name="rest_setting_dialog_title">Pausendauer wählen</string>
+    <string name="option_rest_off">Aus / Deaktiviert</string>
+    <string name="option_rest_30">30 Sekunden</string>
+    <string name="option_rest_45">45 Sekunden (Standard)</string>
+    <string name="option_rest_60">60 Sekunden (1 Min)</string>
+    <string name="option_rest_90">90 Sekunden (1,5 Min)</string>
+
+    <!-- Warmup Activity -->
+    <string name="warmup_title">Aufwärmen</string>
+    <string name="warmup_step">Übung %1$d von %2$d</string>
+    <string name="button_skip_warmup">Aufwärmen überspringen</string>
+    <string name="button_next_warmup">Nächste Übung</string>
+    <string name="button_start_deck">Deck-Workout starten 🚀</string>
+
+    <string name="warmup_1_title">Armkreisen</string>
+    <string name="warmup_1_duration">30 Sekunden</string>
+    <string name="warmup_1_desc">Kreise deine Arme langsam vorwärts und rückwärts, um die Schultergelenke aufzuwärmen.</string>
+
+    <string name="warmup_2_title">Hampelmann</string>
+    <string name="warmup_2_duration">30 Sekunden</string>
+    <string name="warmup_2_desc">Springe leicht auf und ab bei gleichzeitigem Öffnen von Armen und Beinen, um den Puls zu steigern.</string>
+
+    <string name="warmup_3_title">Rumpfdrehen</string>
+    <string name="warmup_3_duration">30 Sekunden</string>
+    <string name="warmup_3_desc">Drehe deinen Oberkörper abwechselnd nach links und rechts, um die Wirbelsäule und Rumpfmuskulatur zu lockern.</string>
+
+    <string name="warmup_4_title">Handgelenke kreisen</string>
+    <string name="warmup_4_duration">30 Sekunden</string>
+    <string name="warmup_4_desc">Verschränke die Finger und kreise die Handgelenke, um sie auf Liegestütze und Dips vorzubereiten.</string>
+
+    <!-- Main Activity -->
+    <string name="progress_default">Karte 0 / 52</string>
+    <string name="progress_label">Karte %1$d / %2$d</string>
+    <string name="exercise_default">Liegestütze</string>
+    <string name="exercise_label">%1$s</string>
+    <string name="repetitions_default">0 Wiederholungen</string>
+    <string name="repetitions_label">%1$d Wiederholungen</string>
+    <string name="button_next">Nächste Karte</string>
+    <string name="button_finish_workout">Workout beenden</string>
+    <string name="custom_reps_hint">Tatsächliche Wdh. (optional)</string>
+    <string name="custom_reps_hint_default">Wdh. (Standard: %1$d)</string>
+
+    <!-- Stats Activity -->
+    <string name="congratulations">Deck fertig! 🎉</string>
+    <string name="workout_finished">Workout beendet! 🏋️</string>
+    <string name="cards_completed_label">%1$d / %2$d Karten geschafft</string>
+    <string name="label_pushups">Liegestütze</string>
+    <string name="label_pullups">Klimmzüge</string>
+    <string name="label_dips">Dips</string>
+    <string name="label_duration">Dauer</string>
+    <string name="label_total">Gesamt</string>
+    <string name="button_restart">Hauptmenü</string>
+
+    <!-- History & Comparison -->
+    <string name="comparison_title">Vergleich zum letzten Workout</string>
+    <string name="comparison_first">Erstes Workout gespeichert! Beim nächsten Mal siehst du hier deinen Fortschritt im Vergleich zu heute. 💪</string>
+    <string name="comparison_summary">Letztes Workout (%1$s):\n%2$d Wdh. (%3$d Karten) | Dauer: %4$s\n\nEntwicklung heute:\n%5$s | %6$s</string>
+    <string name="history_title">Workout Historie</string>
+    <string name="history_empty">Noch keine historischen Workouts vorhanden.</string>
+    <string name="history_item">%1$s (⏱️ %2$s)\n• %3$d/%4$d Karten | %5$d Wdh.\n  (%6$d Liegestütze, %7$d Klimmzüge, %8$d Dips)</string>
+
+    <!-- Trend Strings -->
+    <string name="trend_reps_plus">+%1$d Wdh. 📈</string>
+    <string name="trend_reps_minus">%1$d Wdh. 📉</string>
+    <string name="trend_reps_equal">Gleiche Wdh. ➡️</string>
+    <string name="trend_cards_plus">+%1$d Karten 📈</string>
+    <string name="trend_cards_minus">%1$d Karten 📉</string>
+    <string name="trend_cards_equal">Gleiche Kartenanzahl ➡️</string>
+</resources>
